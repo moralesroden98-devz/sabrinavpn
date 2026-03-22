@@ -38,6 +38,16 @@ const productData = [
     rating: 5,
     timeLeft: 24,
     appLink: "https://gitlab.com/mtkdev1/dextereskalarte/-/raw/main/mtkxray-release.apk"
+  },
+  {
+    id: 4,
+    name: "SHIELD MTK",
+    image: "https://i.ibb.co/hF7tsfbB/icon-icon.png",
+    productType: "openBackHeadphones",
+    description: ["XRAY CORE LATEST"],
+    rating: 5,
+    timeLeft: 24,
+    appLink: "https://gitlab.com/mtkdev1/dextereskalarte/-/raw/main/shieldmtk-release.apk"
   }
 ];
 
