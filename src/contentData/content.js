@@ -21,8 +21,8 @@ const productData = [
   },
   {
     id: 3,
-    name: "MTK DITO APP",
-    image: "https://i.ibb.co/dsBK8FTw/app-main-logo.png",
+    name: "SHIELD MTK LITE",
+    image: "https://i.ibb.co/8D0Nznb4/app-main-logo.png",
     productType: "openBackHeadphones",
     description: ["OVPN"],
     rating: 5,
@@ -42,7 +42,7 @@ const productData = [
   {
     id: 4,
     name: "SHIELD MTK",
-    image: "https://i.ibb.co/hF7tsfbB/icon-icon.png",
+    image: "https://i.ibb.co/8D0Nznb4/app-main-logo.png",
     productType: "openBackHeadphones",
     description: ["XRAY CORE LATEST"],
     rating: 5,
