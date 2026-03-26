@@ -27,7 +27,7 @@ const productData = [
     description: ["OVPN"],
     rating: 5,
     timeLeft: 24,
-    appLink: "https://gitlab.com/mtkdev1/dextereskalarte/-/raw/main/shielmtklite-release.apk"
+    appLink: "https://gitlab.com/mtkdev1/dextereskalarte/-/raw/main/shieldmtklite-release.apk"
  },
   {
     id: 4,
