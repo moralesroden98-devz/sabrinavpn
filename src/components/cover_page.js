@@ -8,7 +8,7 @@ const cover_page = (props) => {
     </div>
     
     <div className="container">
-            <img src={props.image} alt="https://i.ibb.co/dsBK8FTw/app-main-logo.png"/>
+            <img src={props.image} alt="https://i.ibb.co/0V1v4N5X/icon-icon.png"/>
             <div className="title">{props.siteName}</div>
             <div className="subtitle">{props.description}</div>
             <div className='displayStack__2'>
