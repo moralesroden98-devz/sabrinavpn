@@ -7,7 +7,7 @@ const productData = [
     description: ["OVPN", "UDP", "V2RAY"],
     rating: 5,
     timeLeft: 27,
-    appLink: "https://gitlab.com/mtkdev1/dextereskalarte/-/raw/main/sabrinalite-release.apk"
+    appLink: ""
   },
   {
      id: 2,
