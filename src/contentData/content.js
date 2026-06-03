@@ -17,7 +17,7 @@ const productData = [
     description: ["OVPN", "UDP", "V2RAY", "SSH", "SLOWDNS"],
     rating: 5,
     timeLeft: 24,
-    appLink: "https://gitlab.com/mtkdev1/dextereskalarte/-/raw/main/sabrinavpn-release.apk.apk"
+    appLink: "https://gitlab.com/mtkdev1/dextereskalarte/-/raw/main/ssabrinavpn-release.apk"
   }
 ];
 
