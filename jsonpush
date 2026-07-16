@@ -1,0 +1,22 @@
+{
+  "speedpro": [
+    {
+      "User": "speedpro",
+      "app_name": "180G HIGH SPEED PRO",
+      "status": "online",
+      "password": "speedpro",
+      "domain": "sabrinavpn.fun",
+      "hash": "c56890108c554ee4f379"
+    }
+  ],
+  "app2_dev": [
+    {
+      "User": "app2_dev",
+      "app_name": "MY NEW APP TWO",
+      "status": "online",
+      "password": "1234567",
+      "domain": "yourdomain2.xyz",
+      "hash": "0j9i8h7g6f5e4d3c2b1a"
+    }
+  ]
+}
