@@ -18,5 +18,25 @@
       "domain": "yourdomain2.xyz",
       "hash": "0j9i8h7g6f5e4d3c2b1a"
     }
+  ],
+  "turbo_fast": [
+    {
+      "User": "turbo_fast",
+      "app_name": "TURBO CONNECT PRO",
+      "status": "online",
+      "password": "securepassword99",
+      "domain": "turbovpn.net",
+      "hash": "a1b2c3d4e5f6g7h8i9j0"
+    }
+  ],
+  "light_stream": [
+    {
+      "User": "light_stream",
+      "app_name": "LIGHT SPEED NET",
+      "status": "offline",
+      "password": "mypassword123",
+      "domain": "lightstream.io",
+      "hash": "z9y8x7w6v5u4t3s2r1q0"
+    }
   ]
 }
