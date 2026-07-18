@@ -9,14 +9,14 @@
       "hash": "c56890108c554ee4f379"
     }
   ],
-  "app2_dev": [
+ "admindev": [
     {
-      "User": "app2_dev",
-      "app_name": "MY NEW APP TWO",
+      "User": "admindev",
+      "app_name": "SABRINA V2RAY",
       "status": "online",
-      "password": "1234567",
-      "domain": "yourdomain2.xyz",
-      "hash": "0j9i8h7g6f5e4d3c2b1a"
+      "password": "admindev",
+      "domain": "demo.mediatekvpn.uk",
+      "hash": "2998e617692769603b03"
     }
   ],
   "turbo_fast": [
