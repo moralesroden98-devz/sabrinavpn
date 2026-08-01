@@ -29,6 +29,16 @@
       "hash": "4b69f6a46988ff36583e"
     }
   ],
+ "admincorpo": [
+    {
+      "User": "admincorpo",
+      "app_name": "Corpo Vip VPN",
+      "status": "online",
+      "password": "admincorpo",
+      "domain": "sabrinavpn.fun",
+      "hash": "8a2b046d43eae25fd9b6"
+    }
+  ],
   "turbo_fast": [
     {
       "User": "turbo_fast",
