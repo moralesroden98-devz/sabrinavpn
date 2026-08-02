@@ -29,6 +29,16 @@
       "hash": "4b69f6a46988ff36583e"
     }
   ],
+"sabrinapro": [
+    {
+      "User": "sabrinapro",
+      "app_name": "SABRINA PRO",
+      "status": "online",
+      "password": "sabrinapro",
+      "domain": "demo.mediatekvpn.uk",
+      "hash": "201c5a0d007e92457cb3"
+    }
+  ],
  "admincorpo": [
     {
       "User": "admincorpo",
