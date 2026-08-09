@@ -33,9 +33,9 @@
     {
       "User": "adminpakhi",
       "app_name": "CLOUD V2RAY",
-      "status": "online",
+      "status": "offline",
       "password": "adminpakhi",
-      "domain": "pakhi.xyz",
+      "domain": "",
       "hash": ""
     }
   ],
