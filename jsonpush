@@ -19,6 +19,16 @@
       "hash": "2ebf6eca365caa925877"
     }
   ],
+ "netvpro2026": [
+    {
+      "User": "netvpro2026",
+      "app_name": "NetVPRO",
+      "status": "online",
+      "password": "netvpro2026",
+      "domain": "panel.netvpro.info",
+      "hash": "01d67c509cd739d21dba"
+    }
+  ],
  "adminrachai": [
     {
       "User": "adminrachai",
