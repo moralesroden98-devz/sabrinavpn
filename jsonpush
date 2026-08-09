@@ -29,12 +29,12 @@
       "hash": "4b69f6a46988ff36583e"
     }
   ],
-"adminpakhi": [
+"": [
     {
-      "User": "adminpakhi",
-      "app_name": "CLOUD V2RAY",
+      "User": "",
+      "app_name": "",
       "status": "offline",
-      "password": "adminpakhi",
+      "password": "",
       "domain": "",
       "hash": ""
     }
