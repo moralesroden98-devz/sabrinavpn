@@ -22,11 +22,11 @@
  "netvpro2026": [
     {
       "User": "netvpro2026",
-      "app_name": "NetVPRO",
+      "app_name": "NetVpro PH",
       "status": "online",
       "password": "netvpro2026",
-      "domain": "panel.netvpro.info",
-      "hash": "01d67c509cd739d21dba"
+      "domain": "v2raynet.xyz",
+      "hash": "fc4abc22fb5099d25c94"
     }
   ],
  "adminrachai": [
